@@ -9,10 +9,9 @@ I’m passionate about:
 
 ## 🌱 Currently Learning  
 I’m diving into:  
-- **Supervised Machine Learning**  
-- **Unsupervised Machine Learning**  
+- **Supervised and Unsupervised Machine Learning**  
 
-## 💞️ Collaboration  
+## 🤝 Collaboration  
 I’m looking to collaborate on:  
 - **Peptide Science**  
 - **Molecular Data Analysis**  
@@ -25,10 +24,6 @@ I work with:
 ## 📂 Current Projects  
 - **Peptide Analysis Tool**: Developing a tool for analyzing peptide sequences and properties.  
 - **Machine Learning Models**: Building models to predict molecular interactions.  
-
-## 🎉 Fun Facts  
-- I love documentaries.  
-- I enjoy reading science fiction  
 
 ## ✨ Favorite Quote  
 > "The important thing is not to stop questioning. Curiosity has its own reason for existing." – Albert Einstein  
