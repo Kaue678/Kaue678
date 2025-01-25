@@ -7,10 +7,6 @@ I’m passionate about:
 - **Data Science**  
 - **Molecular Modeling Tools**  
 
-## 🌱 Currently Learning  
-I’m diving into:  
-- **Supervised and Unsupervised Machine Learning**  
-
 ## 🤝 Collaboration  
 I’m looking to collaborate on:  
 - **Peptide Science**  
