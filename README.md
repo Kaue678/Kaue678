@@ -26,7 +26,7 @@ I work with:
 > "The important thing is not to stop questioning. Curiosity has its own reason for existing." – Albert Einstein  
 
 ## 📫 How to Reach Me  
-- **E-mail:** [kaue@ufopa.edu.br](mailto:kaue@ufopa.edu.br)  
+- **E-mail:** [kaue.costa@ufopa.edu.br](mailto:kaue.costa@ufopa.edu.br)  
 
 ### My Academic Networks  
 - [ResearchGate Profile](https://www.researchgate.net/profile/Kaue_Santana)  
