@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @Kaue678  
 
-## 👀 Interests  
+## 🖥️🧬  Interests  
 I’m passionate about:  
 - **Cheminformatics**  
 - **Machine Learning Algorithms**  
@@ -12,7 +12,7 @@ I’m looking to collaborate on:
 - **Peptide Science**  
 - **Molecular Data Analysis**  
 
-## 🛠️ Technologies & Tools  
+## 🛠️ 🔌Technologies & Tools  
 I work with:  
 - **Programming Languages**: Python, R, Java  
 - **Tools**: TensorFlow, Scikit-learn, RDKit, Jupyter Notebooks  
