@@ -18,8 +18,9 @@ I work with:
 - **Tools**: TensorFlow, Scikit-learn, RDKit, Jupyter Notebooks  
 
 ## 📂 Current Projects  
-- **Peptide Analysis Tool**: Developing a tool for analyzing peptide sequences and properties.  
-- **Machine Learning Models**: Building models to predict molecular interactions.  
+- **Bioinformatics and Cheminformatics tools**: Developing a tool for analyzing peptide sequences and structures.  
+- **Machine Learning Models**: Building models to predict pharmacodynamics, pharmacokinetics, and bioactivity.
+- **Molecular Modeling tools**: Investigating catalysis and allostery of proteins with Biotechnological interest 
 
 ## ✨ Favorite Quote  
 > "The important thing is not to stop questioning. Curiosity has its own reason for existing." – Albert Einstein  
