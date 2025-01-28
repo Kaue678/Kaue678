@@ -14,8 +14,8 @@ I’m looking to collaborate on:
 
 ## 🛠️ 🔌Technologies & Tools  
 I work with:  
-- **Programming Languages**: Python, R, Java  
-- **Tools**: TensorFlow, Scikit-learn, RDKit, Jupyter Notebooks  
+- **Programming Languages**: Python and R  
+- **Tools**: TensorFlow, Scikit-learn, RDKit, Numpy  
 
 ## 📂 Current Projects  
 - **Bioinformatics and Cheminformatics tools**: Developing a tool for analyzing peptide sequences and structures.  
