@@ -30,10 +30,10 @@ I work with:
 - **E-mail:** [kaue.costa@ufopa.edu.br](mailto:kaue.costa@ufopa.edu.br)  
 
 ### My Academic Networks  
-- [ResearchGate Profile](https://www.researchgate.net/profile/Kaue_Santana)  
-- [Web of Science Profile](https://www.webofscience.com/wos/author/record/1851974)  
+- [ResearchGate](https://www.researchgate.net/profile/Kaue_Santana)  
+- [Web of Science](https://www.webofscience.com/wos/author/record/1851974)  
 - [Google Scholar Page](https://scholar.google.com.br/citations?hl=pt-PT&pli=1&user=MDePV6wAAAAJ)  
-- [ORCID Profile](https://orcid.org/0000-0002-2735-8016)  
+- [ORCID](https://orcid.org/0000-0002-2735-8016)  
 - [Website/Blog (Portuguese)](https://bioinfobiotec.wordpress.com/)  
 
 ---  
