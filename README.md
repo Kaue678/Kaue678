@@ -15,7 +15,8 @@ I’m looking to collaborate on:
 ## 🛠️ 🔌Technologies & Tools  
 I work with:  
 - **Programming Languages**: Python and R  
-- **Tools**: TensorFlow, Scikit-learn, RDKit, Numpy  
+- **Tools**: TensorFlow, Scikit-learn, RDKit, Numpy
+- Nolecular modeling tools: AutoDock Vina, Amber, Sietraj, UCSF Chimera 
 
 ## 📂 Current Projects  
 - **Bioinformatics and Cheminformatics tools**: Developing a tool for analyzing peptide sequences and structures.  
