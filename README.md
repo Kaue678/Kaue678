@@ -22,9 +22,9 @@ I work with:
 - **Cheminformatic tools**: RDkit, OpenBabel, KNIME, and Osiris Data Warrior 
 
 ## 📂 Current Projects  
-- **Bioinformatics and Cheminformatics tools**: Developing a tool for analyzing peptide sequences and structures.  
-- **Machine Learning Models**: Building models to predict pharmacodynamics, pharmacokinetics, and bioactivity.
-- **Molecular Modeling tools**: Investigating catalysis and allostery of proteins with Biotechnological interest 
+- Developing tools for analyzing peptide sequences and structures  
+- Building models to predict pharmacodynamics, pharmacokinetics, and bioactivity.
+- Investigation of catalysis, inhibition, and allostery of proteins of biotechnological interest 
 
 ## ✨ Favorite Quotes  
 > "The important thing is not to stop questioning. Curiosity has its own reason for existing." – Albert Einstein
