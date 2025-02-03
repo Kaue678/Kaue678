@@ -17,9 +17,9 @@ I’m looking to collaborate on:
 ## 🛠️ 🔌Technologies & Tools  
 I work with:  
 - **Programming Languages**: Python and R  
-- **Programming and Scientific Tools**: TensorFlow, Scikit-learn, RDKit, Numpy, BioPython, PyBioMed, and R Studio
+- **Programming and Scientific Tools**: TensorFlow, Scikit-learn, KNIME, RDKit, Numpy, BioPython, PyBioMed, and R Studio
 - **Molecular modeling tools**: AutoDock Vina, Amber, Modeller, Gaussian, Sietraj, UCSF Chimera, Avogadro, and FoldX
-- **Cheminformatic tools**: RDkit, OpenBabel, Osiris Data Warrior 
+- **Cheminformatic tools**: RDkit, OpenBabel, KNIME, and Osiris Data Warrior 
 
 ## 📂 Current Projects  
 - **Bioinformatics and Cheminformatics tools**: Developing a tool for analyzing peptide sequences and structures.  
