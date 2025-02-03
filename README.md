@@ -10,21 +10,25 @@ I’m passionate about:
 ## 🤝 Collaboration  
 I’m looking to collaborate on:  
 - **Peptide Science**  
-- **Molecular Data Analysis**  
+- **Molecular Data Analysis using Biocheminformatics**
+- **Discovery of Druglikeness and ADMET properties**
+- **Analysis of Protein Catalysis, Allostery, and Inhibition**  
 
 ## 🛠️ 🔌Technologies & Tools  
 I work with:  
 - **Programming Languages**: Python and R  
-- **Tools**: TensorFlow, Scikit-learn, RDKit, Numpy
-- Nolecular modeling tools: AutoDock Vina, Amber, Sietraj, UCSF Chimera 
+- **Programming and Scientific Tools**: TensorFlow, Scikit-learn, RDKit, Numpy, BioPython, PyBioMed, and R Studio
+- **Molecular modeling tools**: AutoDock Vina, Amber, Modeller, Gaussian, Sietraj, UCSF Chimera, Avogadro, and FoldX
+- **Cheminformatic tools**: RDkit, OpenBabel, Osiris Data Warrior 
 
 ## 📂 Current Projects  
 - **Bioinformatics and Cheminformatics tools**: Developing a tool for analyzing peptide sequences and structures.  
 - **Machine Learning Models**: Building models to predict pharmacodynamics, pharmacokinetics, and bioactivity.
 - **Molecular Modeling tools**: Investigating catalysis and allostery of proteins with Biotechnological interest 
 
-## ✨ Favorite Quote  
-> "The important thing is not to stop questioning. Curiosity has its own reason for existing." – Albert Einstein  
+## ✨ Favorite Quotes  
+> "The important thing is not to stop questioning. Curiosity has its own reason for existing." – Albert Einstein
+> “Almost all aspects of life are engineered at the molecular level” - Francis Crick
 
 ## 📫 How to Reach Me  
 - **E-mail:** [kaue.costa@ufopa.edu.br](mailto:kaue.costa@ufopa.edu.br)  
