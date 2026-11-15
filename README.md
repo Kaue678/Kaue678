@@ -87,7 +87,6 @@ PepSpace brings together machine learning models and analysis tools for cell-pen
   *de Oliveira et al.* Scientific Reports, 11, 7628.  
   Introduces BChemRF-CPPred, integrating sequence and structure descriptors to explore CPP chemical space. The study reports 90.66% accuracy and AUC 0.9365 in the independent test using PDB input.
 
-> *Performance values refer to the evaluation datasets and input formats used in each publication.*
 
 ### Natural products and computational bioprospecting
 
