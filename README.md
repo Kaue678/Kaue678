@@ -13,7 +13,7 @@
 
 ---
 
-## 👋 About me
+## 💻 About me
 
 My research at UFOPA, Brazil, connects artificial intelligence, data science, structural bioinformatics and molecular bioprospecting. I investigate how molecular sequence, structure and physicochemical properties relate to the biological activity of peptides and natural products, with applications in drug discovery and biotechnology. I coordinate **PepSpace** and lead an interdisciplinary research group focused on biomolecular technologies.
 
